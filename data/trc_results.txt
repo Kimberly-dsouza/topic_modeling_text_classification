@@ -1,260 +1,65 @@
 Cluster 0
- shot dead
- dead
- shot
- member
- transvaal
- members
  ifp
- named
+ supporters
  anc
- police
+ ifp supporters
+ natal
+ supporter
+ near
+ anc supporter
+ conflict
+ kwazulu
 
 
 Cluster 1
- injured
- shot injured
- shot
+ sap
+ members sap
  members
- people
- member
- killed
- attack
- transvaal
+ shot
+ cape
+ police
+ shot dead
+ dead
+ beaten
  severely
 
 
 Cluster 2
- kwamashu
- kwamashu durban
- durban
- near
- conflict
- supporters
- burnt
- political conflict
- political
- anc
-
-
-Cluster 3
- burnt
- burnt ifp supporters
- burnt ifp
- house
- ifp
- supporter house
- ifp supporters
- supporters
- house burnt
- anc
-
-
-Cluster 4
- death
- stabbed
- attack
- transvaal
- anc
- member
- killed
- home
- members
- burnt
-
-
-Cluster 5
- ifp
- supporters
- anc
- natal
- ifp supporters
- anc supporters
- near
- conflict
- supporter
- kwazulu
-
-
-Cluster 6
- anc supporter shot
- supporter shot
- anc supporter
- anc
- supporter
- shot
- injured
- shot injured
- ifp
- natal
-
-
-Cluster 7
- bophuthatswana
- police
- members
- beaten
- severely
- severely beaten
- arrested
- tvl
- assaulted
- chief
-
-
-Cluster 8
  inkatha
  inkatha supporters
  udf
  supporters
  near
- kwazulu
- supporter
- kwazulu near
  durban
- near durban
-
-
-Cluster 9
- police
- detained
- assaulted
- arrested
- members
- member
- cape
- sap
  supporter
- mr
-
-
-Cluster 10
- conflict area
- political conflict area
- political conflict
- area
- political
  conflict
- supporters
- natal
- near
- ongoing
-
-
-Cluster 11
- town
- cape
- shot
- members
- sap
- member
- injured
- police
- named
- home
-
-
-Cluster 12
- amnesty
- granted
- granted amnesty
- security
- injured
- killed
- security branch
- branch
- members
- operatives
-
-
-Cluster 13
- tortured
- detained
- members
- sap
- members sap
- police
- named
- member
- arrested
- cape
-
-
-Cluster 14
- sonkombo
- ndwedwe
- ndwedwe kwazulu near
- ndwedwe kwazulu
- kwazulu near durban
- near durban
- arson
- attacks
- kwazulu near
  kwazulu
+ political
 
 
-Cluster 15
- chief
- home
- burnt
- home burnt
- supporters
- mr
- lost
- allegedly
- attack
- residents
-
-
-Cluster 16
- supporter shot dead
- supporter shot
- shot dead
- dead
- anc supporter shot
+Cluster 3
+ police
+ members
+ member
+ cape
  shot
- supporter
- anc
- anc supporter
- ifp
+ detained
+ beaten
+ named
+ mr
+ bophuthatswana
 
 
-Cluster 17
- mk
- mk operatives
- operatives
- injured
+Cluster 4
  amnesty
- granted amnesty
+ mk
  granted
+ operatives
+ granted amnesty
+ injured
+ mk operatives
  killed
  people
- people killed
-
-
-Cluster 18
- members sap
- sap
- members
- shot
- shot dead
- dead
- transvaal
- cape
- police
- injured
-
-
-Cluster 19
- beaten
- severely beaten
- severely
- members
- sap
- members sap
- police
- cape
- supporter
- anc
+ security
 
 
